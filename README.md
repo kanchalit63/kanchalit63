@@ -3,8 +3,10 @@
 
 สามารถติดต่อผมได้ในช่องทาง ดังนี้
 
-[Facebook](https://www.facebook.com/kanchalit.bangkakal.5/)
-[Twitter](https://twitter.com/J9_8096)
+[Facebook](https://www.facebook.com/kanchalit.bangkakal.5/)<br>
+[Twitter](https://twitter.com/J9_8096)<br>
+
+![Kanchalit BangKhakul](https://media.discordapp.net/attachments/865878529290928148/1044957255105253466/315015506_1342527562950486_767612695787642434_n.jpg?width=384&height=683)
 
 
 

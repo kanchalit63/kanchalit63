@@ -4,15 +4,24 @@
 
 ---
 
+<div id="about" >
+  <h2 align="center">:rocket: About me :rocket:</h2>  
+  <ul>
+    <li>Name: bew</li>
+    <li>Current: Internship At PDKM, Daywork team</li>
+  </ul>
+</div>
+
+---
+<div>
+  <h1>:computer: Language & Tools :computer:</h1>
+</div>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
----
-
-# Hello i'm Kanchalit
 
 ---
 

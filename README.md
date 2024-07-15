@@ -8,7 +8,7 @@
   <h2 align="center">:rocket: About me :rocket:</h2>  
   <ul>
     <li>Name: bew</li>
-    <li>Current: Internship At PDKM, Daywork team</li>
+    <li>Current: ---- </li>
   </ul>
 </div>
 

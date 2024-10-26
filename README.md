@@ -8,7 +8,8 @@
   <h2 align="center">:rocket: About me :rocket:</h2>  
   <ul>
     <li>Name: bew</li>
-    <li>Current: ---- </li>
+    <li> 23yr. </li>
+    <li>Current: Ocare health hub </li>
   </ul>
 </div>
 
